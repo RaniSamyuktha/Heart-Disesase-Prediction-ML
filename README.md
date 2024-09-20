@@ -1,4 +1,4 @@
-###HEART DISEASE PREDICTION
+**###HEART DISEASE PREDICTION**
 
 The notebook is based on predicting heart disease using various machine learning models. Here's a breakdown of the project components:
 
